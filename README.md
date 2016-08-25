@@ -1,4 +1,4 @@
-# TensorFlow and Deep Learning Tutorial
+# Selected TensorFlow and Deep Learning Tutorial (精选TensorFlow与深度学习教程)
 
 <div align="center">
   <div class="TensorFlow">
@@ -6,6 +6,7 @@
   </div>
 </div>
 
+## TensorFlow
 
  - [TensorFlow Official Deep Learning Tutorial](https://www.tensorflow.org/versions/master/tutorials/index.html) [[中文]](http://wiki.jikexueyuan.com/project/tensorflow-zh/).
  - MLP with Dropout [TensorFlow](https://www.tensorflow.org/versions/master/tutorials/mnist/beginners/index.html) [[中文]](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html)  [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html#tensorlayer-is-simple) [[中文]](http://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html#tensorlayer)
@@ -24,3 +25,8 @@
  - [Colah's Blog - Word Embedding](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) [[中文]](http://dataunion.org/9331.html)
  - [Colah's Blog - Understand LSTN](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [门函数](http://mp.weixin.qq.com/s?__biz=MzI3NDExNDY3Nw==&mid=2649764821&idx=1&sn=dd325565b40fcbad6e90a9398414dede&scene=2&srcid=0505U2iFJ7tfXgB8yPfNkwrA&from=timeline&isappinstalled=0#wechat_redirect)
  
+## Selected Repositories
+ - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
+ - [nlintz/TensorFlow-Tutoirals](https://github.com/nlintz/TensorFlow-Tutorials)
+ - [adatao/tensorspark](https://github.com/adatao/tensorspark)
+ - [ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
