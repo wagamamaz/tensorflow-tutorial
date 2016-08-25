@@ -23,7 +23,7 @@
  - [Karpathy Blog](http://karpathy.github.io)
  - [Stanford UFLDL Tutorials](http://deeplearning.stanford.edu/tutorial/)
  - [Colah's Blog - Word Embedding](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) [[中文]](http://dataunion.org/9331.html)
- - [Colah's Blog - Understand LSTN](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [门函数](http://mp.weixin.qq.com/s?__biz=MzI3NDExNDY3Nw==&mid=2649764821&idx=1&sn=dd325565b40fcbad6e90a9398414dede&scene=2&srcid=0505U2iFJ7tfXgB8yPfNkwrA&from=timeline&isappinstalled=0#wechat_redirect)
+ - [Colah's Blog - Understand LSTN](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) [[门函数]](http://mp.weixin.qq.com/s?__biz=MzI3NDExNDY3Nw==&mid=2649764821&idx=1&sn=dd325565b40fcbad6e90a9398414dede&scene=2&srcid=0505U2iFJ7tfXgB8yPfNkwrA&from=timeline&isappinstalled=0#wechat_redirect)
  
 ## Selected Repositories
  - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
