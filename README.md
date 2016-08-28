@@ -6,7 +6,7 @@
   </div>
 </div>
 
-## TensorFlow
+## TensorFlow 
 
  - [TensorFlow Official Deep Learning Tutorial](https://www.tensorflow.org/versions/master/tutorials/index.html) [[中文]](http://wiki.jikexueyuan.com/project/tensorflow-zh/).
  - MLP with Dropout [TensorFlow](https://www.tensorflow.org/versions/master/tutorials/mnist/beginners/index.html) [[中文]](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html)  [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html#tensorlayer-is-simple) [[中文]](http://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html#tensorlayer)
