@@ -30,3 +30,33 @@
  - [nlintz/TensorFlow-Tutoirals](https://github.com/nlintz/TensorFlow-Tutorials)
  - [adatao/tensorspark](https://github.com/adatao/tensorspark)
  - [ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
+
+
+## Examples
+
+### Basics
+
+
+ - Multi-layer perceptron (MNIST). A multi-layer perceptron implementation for MNIST classification task, see ``tutorial_mnist_simple.py`` [here](https://github.com/zsdonghao/tensorlayer).
+
+### Computer Vision
+
+ - Denoising Autoencoder (MNIST). A multi-layer perceptron implementation for MNIST classification task, see ``tutorial_mnist.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - Stacked Denoising Autoencoder and Fine-Tuning (MNIST). A multi-layer perceptron implementation for MNIST classification task, see ``tutorial_mnist.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - Convolutional Network (MNIST). A Convolutional neural network implementation for classifying MNIST dataset, see ``tutorial_mnist.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - Convolutional Network (CIFAR-10). A Convolutional neural network implementation for classifying CIFAR-10 dataset, see ``tutorial_cifar10.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - VGG 16 (ImageNet). A Convolutional neural network implementation for classifying ImageNet dataset, see ``tutorial_vgg16.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - VGG 19 (ImageNet). A Convolutional neural network implementation for classifying ImageNet dataset, see ``tutorial_vgg19.py`` [here](https://github.com/zsdonghao/tensorlayer).
+
+
+### Natural Language Processing
+ - Recurrent Neural Network (LSTM). Apply multiple LSTM to PTB dataset for language modeling, see ``tutorial_ptb_lstm.py``  [here](https://github.com/zsdonghao/tensorlayer).
+ - Word Embedding - Word2vec. Train a word embedding matrix, see ``tutorial_word2vec_basic.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - Restore Embedding matrix. Restore a pre-train embedding matrix, see ``tutorial_generate_text.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - Text Generation. Generates new text scripts, using LSTM network, see ``tutorial_generate_text.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ - Machine Translation (WMT). Translate English to French. Apply Attention mechanism and Seq2seq to WMT English-to-French translation data, see ``tutorial_translate.py`` [here](https://github.com/zsdonghao/tensorlayer).
+
+Reinforcement Learning
+==============================
+
+ - Deep Reinforcement Learning - Pong Game. Teach a machine to play Pong games, see ``tutorial_atari_pong.py`` [here](https://github.com/zsdonghao/tensorlayer).
