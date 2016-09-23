@@ -56,7 +56,6 @@
  - Text Generation. Generates new text scripts, using LSTM network, see ``tutorial_generate_text.py`` [here](https://github.com/zsdonghao/tensorlayer).
  - Machine Translation (WMT). Translate English to French. Apply Attention mechanism and Seq2seq to WMT English-to-French translation data, see ``tutorial_translate.py`` [here](https://github.com/zsdonghao/tensorlayer).
 
-Reinforcement Learning
-==============================
+### Reinforcement Learning
 
  - Deep Reinforcement Learning - Pong Game. Teach a machine to play Pong games, see ``tutorial_atari_pong.py`` [here](https://github.com/zsdonghao/tensorlayer).
