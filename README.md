@@ -71,6 +71,8 @@ Official Website: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb
  - [adatao/tensorspark](https://github.com/adatao/tensorspark)
  - [ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet)
 
+## Tricks
+ - [Tricks to use TensorLayer](https://github.com/wagamamaz/tensorlayer-tricks)
 
 ## Examples
 
