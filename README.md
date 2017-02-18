@@ -99,5 +99,7 @@ Official Website: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb
  - Machine Translation (WMT). Translate English to French. Apply Attention mechanism and Seq2seq to WMT English-to-French translation data, see ``tutorial_translate.py`` [here](https://github.com/zsdonghao/tensorlayer).
 
 ### Reinforcement Learning
-
  - Deep Reinforcement Learning - Pong Game. Teach a machine to play Pong games, see ``tutorial_atari_pong.py`` [here](https://github.com/zsdonghao/tensorlayer).
+ 
+### Useful Links
+ - [Tricks to use TensorLayer](https://github.com/wagamamaz/tensorlayer-tricks)
